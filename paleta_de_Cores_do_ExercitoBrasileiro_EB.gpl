@@ -41,19 +41,19 @@ Name: Cores do Exército Brasileiro - EB - RUE
 189 	191		193		Cinza-Aço
 169 	171		174		Cinza-Escuro
 055 	052		053		Preto/Negro
-038 	048		054		Preto - Calçado
-237 	050		055		Vermelho
-127 	052		054		Vermelho - Tecido/Grená/Garança
-226 	154		078		Couro - Caatinga
-202 	191		140		Tecido - Caatinga
-107 	101		078		Caqui-Esverdeado - Uniforme da FEB
-129 	123		112		Verde-FEB - Uniforme da FEB
-255 	242		018		Amarelo
-255 	221		033		Amarelo Médio
-255 	204		041		Amarelo-Ouro
-168 	207		069		Verde-Folha Claro
-000 	168		089		Verde
-097 	100		087		Verde-Aviação
+038 	048 	054		Preto - Calçado
+237 	050 	055		Vermelho
+127 	052 	054		Vermelho - Tecido/Grená/Garança
+226 	154 	078		Couro - Caatinga
+202 	191 	140		Tecido - Caatinga
+107 	101 	078		Caqui-Esverdeado - Uniforme da FEB
+129 	123 	112		Verde-FEB - Uniforme da FEB
+255 	242 	018		Amarelo
+255 	221 	033		Amarelo Médio
+255 	204 	041		Amarelo-Ouro
+168 	207 	069		Verde-Folha Claro
+000 	168 	089		Verde
+097 	100 	087		Verde-Aviação
 074 	084 	066		Verde-Oliva
 145 	216 	247		Azul-Turquesa
 000 	152 	218		Azul-Celeste
