@@ -23,20 +23,20 @@ Name: Cores do Exército Brasileiro - EB - RUE
 237 	050 	055		Vermelho - Logística
 255 	221 	033		Amarelo - Logística
 190 	191 	193		Cinza - Logística
-237 	050		055		Vermelho - Saúde
-254 	254		254		Branco - Saúde
-232 	187		042		Ouro/Dourado - Preenchimento
-191 	155		041		Ouro/Dourado - Fio
-200 	202		204		Prata/Prateado - Preenchimento
-160 	162		165		Prata/Prateado - Fio
-142 	112		089		Bronze - Preenchimento
-120 	096		077		Bronze - Fio
-187 	130		081		Cobre - Preenchimento
-148 	104		067		Cobre - Fio
-043 	045		036		Sobrecor - Camuflado
-073 	057		046		Marrom - Camuflado
-029 	055		036		Verde-Escuro - Camuflado
-132 	132		114		Verde-Claro - Camuflado
+237 	050 	055		Vermelho - Saúde
+254 	254 	254		Branco - Saúde
+232 	187 	042		Ouro/Dourado - Preenchimento
+191 	155 	041		Ouro/Dourado - Fio
+200 	202 	204		Prata/Prateado - Preenchimento
+160 	162 	165		Prata/Prateado - Fio
+142 	112 	089		Bronze - Preenchimento
+120 	096 	077		Bronze - Fio
+187 	130 	081		Cobre - Preenchimento
+148 	104 	067		Cobre - Fio
+043 	045 	036		Sobrecor - Camuflado
+073 	057 	046		Marrom - Camuflado
+029 	055 	036		Verde-Escuro - Camuflado
+132 	132 	114 	Verde-Claro - Camuflado
 210 	211		213		Cinza-Claro
 189 	191		193		Cinza-Aço
 169 	171		174		Cinza-Escuro
