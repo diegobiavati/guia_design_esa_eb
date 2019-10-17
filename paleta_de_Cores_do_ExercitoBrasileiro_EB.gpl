@@ -37,10 +37,10 @@ Name: Cores do Exército Brasileiro - EB - RUE
 073 	057 	046		Marrom - Camuflado
 029 	055 	036		Verde-Escuro - Camuflado
 132 	132 	114 	Verde-Claro - Camuflado
-210 	211		213		Cinza-Claro
-189 	191		193		Cinza-Aço
-169 	171		174		Cinza-Escuro
-055 	052		053		Preto/Negro
+210 	211 	213		Cinza-Claro
+189 	191 	193		Cinza-Aço
+169 	171 	174		Cinza-Escuro
+055 	052 	053		Preto/Negro
 038 	048 	054		Preto - Calçado
 237 	050 	055		Vermelho
 127 	052 	054		Vermelho - Tecido/Grená/Garança
@@ -51,16 +51,16 @@ Name: Cores do Exército Brasileiro - EB - RUE
 255 	242 	018		Amarelo
 255 	221 	033		Amarelo Médio
 255 	204 	041		Amarelo-Ouro
-168 	207 	069		Verde-Folha Claro
-000 	168 	089		Verde
-097 	100 	087		Verde-Aviação
-074 	084 	066		Verde-Oliva
-145 	216 	247		Azul-Turquesa
-000 	152 	218		Azul-Celeste
-000 	100 	166		Azul-Ultramar
-025 	084 	147		Azul-Safira
-037 	051 	093		Azul-Ferrete
-038 	052 	074		Azul-Petróleo
-255 	253 	242		Bege-Creme
-209 	183 	102		Bege-Lavra
-157 	100 	068		Marron-Paraquedista/Camurça Culote
+168 	207 	069 	Verde-Folha Claro
+000 	168 	089 	Verde
+097 	100 	087 	Verde-Aviação
+074 	084 	066 	Verde-Oliva
+145 	216 	247 	Azul-Turquesa
+000 	152 	218 	Azul-Celeste
+000 	100 	166 	Azul-Ultramar
+025 	084 	147 	Azul-Safira
+037 	051 	093 	Azul-Ferrete
+038 	052 	074 	Azul-Petróleo
+255 	253 	242 	Bege-Creme
+209 	183 	102 	Bege-Lavra
+157 	100 	068 	Marron-Paraquedista/Camurça Culote
