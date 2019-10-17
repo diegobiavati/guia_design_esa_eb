@@ -14,15 +14,15 @@ Name: Cores do Exército Brasileiro - EB - RUE
 000 	152 	218		Azul - EB
 000 	168 	089		Verde - Infantaria
 254 	254 	254		Branco - Cavalaria
-235 	050		055		Vermelho - Cavalaria
-000 	100		166		Azul - Artilharia
-145 	216		247		Azul Turquesa - Engenharia
-000 	152		218		Azul - Comunicações
-255 	221		033		Amarelo - Intendência
-190 	191		193		Cinza - Material Bélico
-237 	050		055		Vermelho - Logística
-255 	221		033		Amarelo - Logística
-190 	191		193		Cinza - Logística
+235 	050 	055		Vermelho - Cavalaria
+000 	100 	166		Azul - Artilharia
+145 	216 	247		Azul Turquesa - Engenharia
+000 	152 	218		Azul - Comunicações
+255 	221 	033		Amarelo - Intendência
+190 	191 	193		Cinza - Material Bélico
+237 	050 	055		Vermelho - Logística
+255 	221 	033		Amarelo - Logística
+190 	191 	193		Cinza - Logística
 237 	050		055		Vermelho - Saúde
 254 	254		254		Branco - Saúde
 232 	187		042		Ouro/Dourado - Preenchimento
