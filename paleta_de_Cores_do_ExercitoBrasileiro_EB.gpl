@@ -3,17 +3,17 @@ Name: Cores do Exército Brasileiro - EB - RUE
 # R #	# G #	# B #	# NOME DA COR #
 000 	168 	089 	Verde - Bandeira do Brasil
 225 	221 	033 	Amarelo - Bandeira do Brasil
-025 	084		147		Azul - Bandeira do Brasil
-254 	254		254		Branco - Bandeira do Brasil
-000 	168		089		Verde - Símbolo do EB
-225 	221		033		Amarelo - Símbolo do EB
-000 	152		218		Azul - Símbolo do EB
-132 	134		136		Cinza - Símbolo do EB
-230 	231		232		Branco - Símbolo do EB
-237 	050		055		Vermelho -  EB
-000 	152		218		Azul - EB
-000 	168		089		Verde - Infantaria
-254 	254		254		Branco - Cavalaria
+025 	084 	147		Azul - Bandeira do Brasil
+254 	254 	254		Branco - Bandeira do Brasil
+000 	168 	089		Verde - Símbolo do EB
+225 	221 	033		Amarelo - Símbolo do EB
+000 	152 	218		Azul - Símbolo do EB
+132 	134 	136		Cinza - Símbolo do EB
+230 	231 	232		Branco - Símbolo do EB
+237 	050 	055		Vermelho -  EB
+000 	152 	218		Azul - EB
+000 	168 	089		Verde - Infantaria
+254 	254 	254		Branco - Cavalaria
 235 	050		055		Vermelho - Cavalaria
 000 	100		166		Azul - Artilharia
 145 	216		247		Azul Turquesa - Engenharia
