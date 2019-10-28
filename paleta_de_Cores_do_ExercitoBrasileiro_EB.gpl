@@ -1,66 +1,76 @@
 GIMP Palette
 Name: Cores do Exército Brasileiro - EB - RUE
-# R #	# G #	# B #	# NOME DA COR #
-000 	168 	089 	Verde - Bandeira do Brasil
-225 	221 	033 	Amarelo - Bandeira do Brasil
-025 	084 	147 	Azul - Bandeira do Brasil
-254 	254 	254 	Branco - Bandeira do Brasil
-000 	168 	089 	Verde - Símbolo do EB
-225 	221 	033 	Amarelo - Símbolo do EB
-000 	152 	218 	Azul - Símbolo do EB
-132 	134 	136 	Cinza - Símbolo do EB
-230 	231 	232 	Branco - Símbolo do EB
-237 	050 	055 	Vermelho -  EB
-000 	152 	218 	Azul - EB
-000 	168 	089 	Verde - Infantaria
-254 	254 	254 	Branco - Cavalaria
-235 	050 	055 	Vermelho - Cavalaria
-000 	100 	166 	Azul - Artilharia
-145 	216 	247 	Azul Turquesa - Engenharia
-000 	152 	218 	Azul - Comunicações
-255 	221 	033 	Amarelo - Intendência
-190 	191 	193 	Cinza - Material Bélico
-237 	050 	055 	Vermelho - Logística
-255 	221 	033 	Amarelo - Logística
-190 	191 	193 	Cinza - Logística
-237 	050 	055 	Vermelho - Saúde
-254 	254 	254 	Branco - Saúde
-232 	187 	042 	Ouro/Dourado - Preenchimento
-191 	155 	041 	Ouro/Dourado - Fio
-200 	202 	204 	Prata/Prateado - Preenchimento
-160 	162 	165 	Prata/Prateado - Fio
-142 	112 	089 	Bronze - Preenchimento
-120 	096 	077 	Bronze - Fio
-187 	130 	081 	Cobre - Preenchimento
-148 	104 	067 	Cobre - Fio
-043 	045 	036 	Sobrecor - Camuflado
-073 	057 	046 	Marrom - Camuflado
-029 	055 	036 	Verde-Escuro - Camuflado
-132 	132 	114 	Verde-Claro - Camuflado
-210 	211 	213 	Cinza-Claro
-189 	191 	193 	Cinza-Aço
-169 	171 	174 	Cinza-Escuro
-055 	052 	053 	Preto/Negro
-038 	048 	054 	Preto - Calçado
-237 	050 	055 	Vermelho
-127 	052 	054 	Vermelho - Tecido/Grená/Garança
-226 	154 	078 	Couro - Caatinga
-202 	191 	140 	Tecido - Caatinga
-107 	101 	078 	Caqui-Esverdeado - Uniforme da FEB
-129 	123 	112 	Verde-FEB - Uniforme da FEB
-255 	242 	018 	Amarelo
-255 	221 	033 	Amarelo Médio
-255 	204 	041 	Amarelo-Ouro
-168 	207 	069 	Verde-Folha Claro
-000 	168 	089 	Verde
-097 	100 	087 	Verde-Aviação
-074 	084 	066 	Verde-Oliva
-145 	216 	247 	Azul-Turquesa
-000 	152 	218 	Azul-Celeste
-000 	100 	166 	Azul-Ultramar
-025 	084 	147 	Azul-Safira
-037 	051 	093 	Azul-Ferrete
-038 	052 	074 	Azul-Petróleo
-255 	253 	242 	Bege-Creme
-209 	183 	102 	Bege-Lavra
-157 	100 	068 	Marron-Paraquedista/Camurça Culote
+# Padrão do RUE #
+# R #  # G #   # B #   # NOME DA COR #
+000		168 	089 	RUE-Verde - Bandeira do Brasil
+225 	221 	033 	RUE-Amarelo - Bandeira do Brasil
+025 	084		147		RUE-Azul - Bandeira do Brasil
+254		254		254		RUE-Branco - Bandeira do Brasil
+000		168		089		RUE-Verde - Símbolo do EB
+225		221		033		RUE-Amarelo - Símbolo do EB
+000		152		218		RUE-Azul - Símbolo do EB
+132		134		136		RUE-Cinza - Símbolo do EB
+230		231		232		RUE-Branco - Símbolo do EB
+237		050		055		RUE-Vermelho -  EB
+000		152		218		RUE-Azul - EB
+000		168		089		RUE-Verde - Infantaria
+254		254		254		RUE-Branco - Cavalaria
+235		050		055		RUE-Vermelho - Cavalaria
+000		100		166		RUE-Azul - Artilharia
+145		216		247		RUE-Azul Turquesa - Engenharia
+000		152		218		RUE-Azul - Comunicações
+255		221		033		RUE-Amarelo - Intendência
+190		191		193		RUE-Cinza - Material Bélico
+237		050		055		RUE-Vermelho - Logística
+255		221		033		RUE-Amarelo - Logística
+190		191		193		RUE-Cinza - Logística
+237		050		055		RUE-Vermelho - Saúde
+254		254		254		RUE-Branco - Saúde
+232		187		042		RUE-Ouro/Dourado - Preenchimento
+191		155		041		RUE-Ouro/Dourado - Fio
+200		202		204		RUE-Prata/Prateado - Preenchimento
+160		162		165		RUE-Prata/Prateado - Fio
+142		112		089		RUE-Bronze - Preenchimento
+120		096		077		RUE-Bronze - Fio
+187		130		081		RUE-Cobre - Preenchimento
+148		104		067		RUE-Cobre - Fio
+043		045		036		RUE-Sobrecor - Camuflado
+073		057		046		RUE-Marrom - Camuflado
+029		055		036		RUE-Verde-Escuro - Camuflado
+132		132		114		RUE-Verde-Claro - Camuflado
+210		211		213		RUE-Cinza-Claro
+189		191		193		RUE-Cinza-Aço
+169		171		174		RUE-Cinza-Escuro
+055		052		053		RUE-Preto/Negro
+038		048		054		RUE-Preto - Calçado
+237		050		055		RUE-Vermelho
+127		052		054		RUE-Vermelho - Tecido/Grená/Garança
+226		154		078		RUE-Couro - Caatinga
+202		191		140		RUE-Tecido - Caatinga
+107		101		078		RUE-Caqui-Esverdeado - Uniforme da FEB
+129		123		112		RUE-Verde-FEB - Uniforme da FEB
+255		242		018		RUE-Amarelo
+255		221		033		RUE-Amarelo Médio
+255		204		041		RUE-Amarelo-Ouro
+168		207		069		RUE-Verde-Folha Claro
+000		168		089		RUE-Verde
+097		100		087		RUE-Verde-Aviação
+074		084		066		RUE-Verde-Oliva
+145		216		247		RUE-Azul-Turquesa
+000		152		218		RUE-Azul-Celeste
+000		100		166		RUE-Azul-Ultramar
+025		084		147		RUE-Azul-Safira
+037		051		093		RUE-Azul-Ferrete
+038		052		074		RUE-Azul-Petróleo
+255		253		242		RUE-Bege-Creme
+209		183		102		RUE-Bege-Lavra
+157		100		068		RUE-Marron-Paraquedista/Camurça Culote
+# Padrão do Manual de Identidade Visual do MD #
+## PRINCIPAL ##
+033		042		116		MD-Pantone 2736 C
+247		198		000		MD-Pantone 109 C
+000		112		036		MD-Pantone 356 C
+## AUXILIAR ##
+085		085		085		MD-Pantone Cool Gray 10 C
+071		063		042		MD-Pantone 449 C
+119		037		004		MD-Pantone 7526 C
